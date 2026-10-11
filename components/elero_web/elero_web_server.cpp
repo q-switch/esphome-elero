@@ -1,5 +1,5 @@
 #include "elero_web_server.h"
-#include "frontend/app/elero_web_ui.h"
+#include "elero_web_ui.h"
 #include "../elero/elero_packet.h"
 #include "../elero/elero_strings.h"
 #include "../elero/nvs_config.h"
